@@ -1,0 +1,3 @@
+- "When generating code, always reference the markdown documentation inside the 'docs/' directory"
+- "Use the guidelines in 'docs/backend.md' for backend development"
+- "Use the guidelines in 'docs/web-frontend.md' for frontend and UI development"
